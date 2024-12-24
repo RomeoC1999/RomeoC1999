@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @RomeoC1999
-- 👀 I’m interested in mathematics, statistics computer science and engineering
-- 🌱 I’m currently learning Statistical Learning at Politecnico of Milan
-- 💞️ I’d like to collaborate on some projects with possibility to improve my skills
-- 📫 Contact me through e-mail: carrararomeo@gmail.com
+- 👀 I’m interested in mathematics, statistics computer science and engineerin
